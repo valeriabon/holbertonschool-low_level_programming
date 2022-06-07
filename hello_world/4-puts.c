@@ -2,8 +2,8 @@
 #include <string.h>
 
 /*
- * This program prints exactly Programming is like building a
- * multilingual puzzle using puts.
+ * main - This C program use puts to print
+ * Returns - 0
  */
 
 int main(void)
