@@ -2,8 +2,8 @@
 #include <string.h>
 
 /*
- * main - This C program use puts to print
- * Returns - 0
+ * main: This C program use puts to print
+ * Returns - zero
  */
 int main(void)
 {
