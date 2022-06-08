@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - This C program tells if the remainder of a random number is positive, zero or negative
+ * main - This C program tells if the remainder of a random number is + , zero or -
  * Return: zero
  */
 int main(void)
