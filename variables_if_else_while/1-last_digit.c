@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - This C program tells if the remainder of a random number is + , zero or -
+ * main - C program tells if the remainder of random number is + , zero or -
  * Return: zero
  */
 int main(void)
@@ -12,7 +12,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */ 
+	/* your code goes there */
 	m = n % 10;
 
 	if (m > 5)
